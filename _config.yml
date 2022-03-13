@@ -1,1 +1,10 @@
 theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+github:
+  is_project_page: false
