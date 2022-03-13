@@ -44,7 +44,7 @@
         {% for menu_page in site.menu %}
           {% for page in site.pages %}
             {% if page.name == menu_page %}
-              <li><a href="{{ page.name | replace: ".md", ".hrml" }}">{{ page.title }}</a></li>
+              <li><a href="{{ page.name | replace: ".md", ".html" }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
         {% endfor %}
