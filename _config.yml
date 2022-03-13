@@ -4,5 +4,6 @@ plugins:
 title: Kjula IF Orientering
 description: 
 show_downloads: false
+logo: kjulaif.jpg
 github:
   is_project_page: false
