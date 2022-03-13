@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Kjula IF
 
-You can use the [editor on GitHub](https://github.com/eblade/kjulaif/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Om oss
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Välkommen till Kjula IFs hemsida.
 
-### Markdown
+Kjula IF är en idrottsförening med orientering som huvudinriktning men vi åker ocks skidor när det finns snö.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kula IF har sin bas vid Tallstugan i Kjula där det finns motionsspår, elljusspår och utegym som är tillgängliga för såväl medlemmar som för allmänheten. Där finns också kartor i alla väderstreck som vi använder vid våra olika orienteringsarrangemang.
 
-```markdown
-Syntax highlighted code block
+Förutom huvudstryelsen har föreningen två kommittéer - stugkommittén samt ungdoms- och träningskommittén.
 
-# Header 1
-## Header 2
-### Header 3
+#### Historia
 
-- Bulleted
-- List
+Kjula IF bildades 1928 och under föreningens första år stor endast fotboll på programmet. Orientering kom in som en sektion i föreningen 1938 som då också sysslade med friidrott, gymnastik och skidor förutom fotboll.
 
-1. Numbered
-2. List
+Dåtidens kartor var i skala 1:50 000 och 1:100 000 och som vi förstår inte speciellt detaljrika.
 
-**Bold** and _Italic_ and `Code` text
+I årsberättelsen från 1939 kan vi läsa att föreningen deltagit i tre tävlingar: Norra Kretsens samtävling, Stjärnhovsorienteringen samt en budkavle (stafett) i Valla.
 
-[Link](url) and ![Image](src)
-```
+Kjula IFs första SM-vinnare blev Ivar Larsson när han 1949 vann svenska juniormästerskapet.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Styrelsen
 
-### Jekyll Themes
+I Kjula IFs styrelse ingår:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eblade/kjulaif/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* ordförande Kerstin Ehn
+* vice ordförande Karin achrisson
+* kassör Mikael Egneblad
+* sekreterare Gittan Jonsson
+* vice sekreterare Kerstin Palm
+* ledamot Eva Larsson
+* ledamot Peder Jonsson
 
-### Support or Contact
+### Kalender
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TBA
