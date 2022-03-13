@@ -1,8 +1,3 @@
----
-layout: page
-title: Om oss
----
-
 ## Om oss
 
 Förutom huvudstryelsen har föreningen två kommittéer - stugkommittén samt ungdoms- och träningskommittén.
