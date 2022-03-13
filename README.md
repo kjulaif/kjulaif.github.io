@@ -1,6 +1,4 @@
-## Kjula IF
-
-### Om oss
+## Om oss
 
 Välkommen till Kjula IFs hemsida.
 
@@ -10,7 +8,7 @@ Kula IF har sin bas vid Tallstugan i Kjula där det finns motionsspår, elljussp
 
 Förutom huvudstryelsen har föreningen två kommittéer - stugkommittén samt ungdoms- och träningskommittén.
 
-#### Historia
+### Historia
 
 Kjula IF bildades 1928 och under föreningens första år stor endast fotboll på programmet. Orientering kom in som en sektion i föreningen 1938 som då också sysslade med friidrott, gymnastik och skidor förutom fotboll.
 
@@ -20,7 +18,7 @@ I årsberättelsen från 1939 kan vi läsa att föreningen deltagit i tre tävli
 
 Kjula IFs första SM-vinnare blev Ivar Larsson när han 1949 vann svenska juniormästerskapet.
 
-#### Styrelsen
+### Styrelsen
 
 I Kjula IFs styrelse ingår:
 
