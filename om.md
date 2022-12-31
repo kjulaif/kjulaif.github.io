@@ -4,7 +4,7 @@ Förutom huvudstryelsen har föreningen två kommittéer - stugkommittén samt u
 
 ### Historia
 
-Kjula IF bildades 1928 och under föreningens första år stor endast fotboll på programmet. Orientering kom in som en sektion i föreningen 1938 som då också sysslade med friidrott, gymnastik och skidor förutom fotboll.
+Kjula IF bildades 1928 och under föreningens första år stod endast fotboll på programmet. Orientering kom in som en sektion i föreningen 1938 som då också sysslade med friidrott, gymnastik och skidor.
 
 Dåtidens kartor var i skala 1:50 000 och 1:100 000 och som vi förstår inte speciellt detaljrika.
 
@@ -14,12 +14,12 @@ Kjula IFs första SM-vinnare blev Ivar Larsson när han 1949 vann svenska junior
 
 ### Styrelsen
 
-I Kjula IFs styrelse ingår:
+I Kjula IFs styrelse 2022 ingår:
 
 * ordförande Kerstin Ehn
-* vice ordförande Karin achrisson
+* vice ordförande Karin Zachrisson
 * kassör Mikael Egneblad
 * sekreterare Gittan Jonsson
-* vice sekreterare Kerstin Palm
-* ledamot Eva Larsson
+* ledamot Kerstin Palm
 * ledamot Peder Jonsson
+* ledamot Pär Andersson
