@@ -1,7 +1,22 @@
 ## Månadsaktuellt
+
+Mars 2023
+
+Nattserien 14 mars INSTÄLLD
+
+
+Provlöpning av banor 25 mars 10.30 Barva bygdegård
+
+
+Tävlingsmöte 27 mars 18.30
+
+
+
 Februari 2023
 
+
 Vinterträning den 12 februari kl 10-12 vid Tallstugan
+
 
 Styrelsemöte den 13 februari kl 18.30 i Tallstugan
 
