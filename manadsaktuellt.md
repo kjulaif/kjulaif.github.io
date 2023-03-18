@@ -2,7 +2,13 @@
 
 Mars 2023
 
-Nattserien 14 mars INSTÄLLD
+6 mars Årsmöte kll 18.30
+
+6 mars Tävlingsmöte kl 19.30
+
+8 mars Årsmöte Sörmlands Orienteringsförbund
+
+14 mars Nattserien INSTÄLLD
 
 
 Provlöpning av banor 25 mars 10.30 Barva bygdegård
