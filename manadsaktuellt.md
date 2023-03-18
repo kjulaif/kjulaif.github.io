@@ -11,28 +11,32 @@ Mars 2023
 14 mars Nattserien INSTÄLLD
 
 
-Provlöpning av banor 25 mars 10.30 Barva bygdegård
+25 mars Provlöpning av banor 10.30 Barva bygdegård
+
+27 mars Tävlingsmöte 18.30
 
 
-Tävlingsmöte 27 mars 18.30
+29 mars EIS årsmöte kl 18.30 (Ordf representerar Kjula IF)
+
+30 mars Start Barn- o ungdomsträning med information kl 18
+
 
 
 
 Februari 2023
 
 
-Vinterträning den 12 februari kl 10-12 vid Tallstugan
+12 feb  Vinterträning kl 10-12 vid Tallstugan
 
-
-Styrelsemöte den 13 februari kl 18.30 i Tallstugan
+13 feb  Styrelsemöte kl 18.30 i Tallstugan
 
 
 Januari 2023
 
-Vinterträning den 15 januari kl 10 vid Tallstugan
+15 jan  Vinterträning kl 10 vid Tallstugan
 
-Tävlingsmöte den 23 januari kl 18.30 i Tallstugan
+23 jan  Tävlingsmöte kl 18.30 i Tallstugan
 
-Styrelsemöte den 23 januari kl 19.30 i Tallstugan
+23 jan Styrelsemöte kl 19.30 i Tallstugan
 
 
