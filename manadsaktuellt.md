@@ -19,12 +19,10 @@ Mars 2023
 29 mars EIS årsmöte kl 18.30 (Ordf representerar Kjula IF)
 
 30 mars Start Barn- o ungdomsträning med information kl 18
- 
- 
- 
 
-Februari 2023
- 
+
+
+Februari 2023 
 
 12 feb  Vinterträning kl 10-12 vid Tallstugan
 
