@@ -1,5 +1,9 @@
 ## Månadsaktuellt
 
+### April 2023
+
+7 april Påsk-OL Barvagården. Start 11.00  
+
 ### Mars 2023
 
 6 mars Årsmöte kl 18.30
