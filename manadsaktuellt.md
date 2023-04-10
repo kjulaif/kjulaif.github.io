@@ -2,7 +2,23 @@
 
 ### April 2023
 
-7 april Påsk-OL Barvagården. Start 11.00  
+Förberedelser Påsk-OL  
+7 april Påsk-OL Barvagården. Start 11.00. Se [Eventor](https://eventor.orientering.se/Events/Show/40272)
+
+11 april Vårspringet vid Tallstugan. Start från 17.00.  [Anmälan i Eventor](https://eventor.orientering.se/Events/Show/44946)
+
+13 april Barn- och ungdomsträning Tallstugan
+
+17 april Styrelsemöte 18.30
+
+20 april Barn- och ungdomsträning Tallstugan
+
+24 april Funktionärsträff Tallstugan (PREL)
+
+25 april Veteran/Motions-OL. [Anmälan i Eventor](https://eventor.orientering.se/Events/Show/45005)
+
+27 april Barn- och ungdomsträning Tallstugan
+
 
 ### Mars 2023
 
