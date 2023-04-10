@@ -5,7 +5,7 @@
 Förberedelser Påsk-OL  
 7 april Påsk-OL Barvagården. Start 11.00. Se [Eventor](https://eventor.orientering.se/Events/Show/40272)
 
-11 april Vårspringet vid Tallstugan. Start från 17.00.  [Anmälan i Eventor](https://eventor.orientering.se/Events/Show/44946)
+11 april Vårspringet vid Tallstugan. Start 17.00-18.30.  [Anmälan i Eventor](https://eventor.orientering.se/Events/Show/44946)
 
 13 april Barn- och ungdomsträning Tallstugan
 
