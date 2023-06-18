@@ -1,5 +1,65 @@
 ## Månadsaktuellt
 
+### Augusti 2023
+
+1-2 aug OK Hällens 3-dagars
+
+15 aug Höstspringet, Kjula IF är arrangör
+
+17 aug Barn- och ungdomsträningen startar igen efter sommaruppehåll
+
+22 aug Höstspringet
+
+24 aug Barn- och ungdomsträning
+
+29 aug Höstspringet
+
+31 aug Barn- och ungdomsträning
+
+
+### Juli 2023
+
+7-9 juli Eskilstuna Weekend
+
+31 juli OK Hällens 3-dagars
+
+
+### Juni 2023
+
+1 juni Barn- och ungdomsträning
+
+1 juni Sprint DM i Nyköping
+
+8 juni Avslutning på  barn- och ungdomsträning
+
+12 juni Styrelsemöte kl 18.30
+
+17 juni Aktivitetsdag Kjula IF 95 år, kl 13.30-16.30 vid Tallstugan
+
+
+### Maj 2023
+
+2 maj Eskilstuna Sprint Cup, etapp 1
+
+4 maj Barn- och ungdomsträning
+
+9 maj Eskilstuna Sprint Cup, etapp 2
+
+11 maj 4 maj Barn- och ungdomsträning
+
+16 maj Eskilstuna Sprint Cup, etapp 3
+
+18 maj Helgdag (ingen träning)
+
+23 maj Eskilstuna Sprint Cup, etapp 4
+
+25 maj Barn- och ungdomsträning
+
+25 maj Ordförandeträff, arr EIS
+
+30 maj Eskilstuna Sprint Cup, etapp 5
+
+
 ### April 2023
 
 Förberedelser Påsk-OL  
