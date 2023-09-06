@@ -1,5 +1,49 @@
 ## Månadsaktuellt
 
+### Oktober 2023
+
+3 okt Nattserien#1 Ärla IF
+
+5 okt Barn- och ungdomsträning Tallstugan
+
+10 okt Nattserien#2 Kjula IF
+
+12 okt Barn- och ungdomsträning Tallstugan
+
+17 okt Nattserien#3 Eskilstuna OL
+
+21 okt Strängnäs-Malmby Tävling
+
+24 okt Nattserien#4 OK Tor
+
+31 okt Nattserien#5 Ärla IF
+
+### September 2023
+
+1 sept DM Natt OK Hällen
+
+3 sept DM Lång Södertälje
+
+5 sept Höstspringet EOL
+
+7 sept Barn- och ungdomsträning
+
+12 sept Höstspringet Kjula IF, Åsen
+
+14 sept Barn- och ungdomsträning Årbytorpsvägen
+
+16 sept Arboga OK Tävling
+
+17 sept DM Medel Trosabygden
+
+21 sept Barn- och ungdomsträning Årbytorpsvägen
+
+24 sept DM Stafett Katrineholm
+
+28 sept Barn- och ungdomsträning Tallstugan
+
+
+
 ### Augusti 2023
 
 1-2 aug OK Hällens 3-dagars
@@ -12,7 +56,7 @@
 
 24 aug Barn- och ungdomsträning
 
-29 aug Höstspringet
+29 aug Höstspringet OK Tor Svalboviken
 
 31 aug Barn- och ungdomsträning
 
