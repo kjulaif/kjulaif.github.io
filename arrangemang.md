@@ -8,26 +8,26 @@ Mer information och resultat se [Eventor](https://eventor.orientering.se/Events/
     
 Vårspringet 11 april.   
 Plats:Tallstugan  
-Start från 17.00.  [Anmälan i Eventor](https://eventor.orientering.se/Events/Show/44946)
+Start från 17.00.  [Anmälan och resutltat i Eventor](https://eventor.orientering.se/Events/Show/44946)
 
 
 Motions-OL 25 april.  
 Plats:  
-[Anmälan i Eventor](https://eventor.orientering.se/Events/Show/45005)
+[Anmälan och resutltat i Eventor](https://eventor.orientering.se/Events/Show/45005)
 
 
 Motions-OL 15 augusti.  
 Plats:  
-[Anmälan i Eventor](https://eventor.orientering.se/Events/Show/45927)
+[Anmälan och resutltat i Eventor](https://eventor.orientering.se/Events/Show/45927)
 
 
 Nattserien 10 oktober.  
 Plats:  
-[Anmälan i Eventor](https://eventor.orientering.se/Events/Show/47315)
+[Anmälan och resutltat i Eventor](https://eventor.orientering.se/Events/Show/47315)
 
 
 Veteran-OL 7 november  
 Plats:  Tallstugan  
  Start 9.30-11.00. 
- [Anmälan i Eventor](https://eventor.orientering.se/Events/Show/47317)
+ [Anmälan och resutltat i Eventor](https://eventor.orientering.se/Events/Show/47317)
 
