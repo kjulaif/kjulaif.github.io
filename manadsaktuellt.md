@@ -6,7 +6,7 @@
 
 ### November 2023
 
-26 nov 10:00 ### Oktober Vinterträning Tallstugan
+26 nov 10:00 Vinterträning Tallstugan
 
 ### Oktober 2023
 
