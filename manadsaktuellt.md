@@ -4,6 +4,17 @@
 
 2 April Vårspringet Ärla IF
 
+4 April Påsklov Ingen träning
+
+9 April Vårspringet IK Standard
+
+16 April Vårspringet OK Tor
+
+23 April Vårspringet Kjula IF
+
+29 April MÅNDAG Vårspringet Ärla IF
+
+
 ### Mars 2024
 
 5 Mars 18:00 Nattserien OK Tor
