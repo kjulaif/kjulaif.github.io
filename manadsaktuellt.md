@@ -17,6 +17,8 @@
 
 ### Mars 2024
 
+4 Mars 18:30 Årsmöte Tallstugan 
+
 5 Mars 18:00 Nattserien OK Tor
 
 12 Mars 18:00 Nattserien Ärla IF
