@@ -2,8 +2,7 @@
 
 Nattserien 26 mars  
 Plats: Tallstugan  
-Start från 17.00.
-# 
+Start från 17.00.  
 
 Vårspringet 23 April  
 Plats:  
