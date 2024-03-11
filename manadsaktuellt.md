@@ -1,5 +1,9 @@
 ## Månadsaktuellt 2024
 
+### April 2024
+
+2 April Vårspringet Ärla IF
+
 ### Mars 2024
 
 5 Mars 18:00 Nattserien OK Tor
@@ -12,7 +16,9 @@
 
 21 Mars 18-19 Ungdomsträning Tallstugan
 
-26 Mars 18:00 Nattserien Kjula IF
+26 Mars 18:00 Nattserien Kjula IF. se Eventor
+
+28 Mars Skärtorsdag Ingen träning 
 
 
 ### Februari 2024
