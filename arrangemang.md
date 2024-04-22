@@ -3,10 +3,12 @@
 Nattserien 26 mars  
 Plats: Tallstugan  
 Start från 17.00.  
+Mer information och resultat se [Eventor](https://eventor.orientering.se/Events/Show/48224)
 
 Vårspringet 23 April  
-Plats:  
-Start från 
+Plats: Grusgropen "Grus och Jord" mellan Kjula och Ärla (strax före järnvägen)  
+Start från 17:00  
+Mer information och resultat se [Eventor](https://eventor.orientering.se/Events/Show/48225)
 #
 ## Arrangemang 2023
 
