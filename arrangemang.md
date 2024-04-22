@@ -6,7 +6,7 @@ Start från 17.00.
 Mer information och resultat se [Eventor](https://eventor.orientering.se/Events/Show/48224)
 
 Vårspringet 23 April  
-Plats: Grusgropen "Grus och Jord" mellan Kjula och Ärla (strax före järnvägen)  
+Plats: Grusgropen "Grus & Jord" mellan Kjula och Ärla (strax norr om järnvägen)  
 Start från 17:00  
 Mer information och resultat se [Eventor](https://eventor.orientering.se/Events/Show/48225)
 #
