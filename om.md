@@ -12,14 +12,33 @@ I årsberättelsen från 1939 kan vi läsa att föreningen deltagit i tre tävli
 
 Kjula IFs första SM-vinnare blev Ivar Larsson när han 1949 vann svenska juniormästerskapet.
 
+.
+.
+
+
 ### Styrelsen
 
-I Kjula IFs styrelse 2022 ingår:
+I Kjula IFs styrelse 2025 ingår:
 
-* ordförande Kerstin Ehn
-* vice ordförande Karin Zachrisson
-* kassör Mikael Egneblad
-* sekreterare Gittan Jonsson
-* ledamot Kerstin Palm
-* ledamot Peder Jonsson
-* ledamot Pär Andersson
+Kerstin Ehn, ordförande
+
+Karin Zackrisson, vice ordförande
+
+Mikael Egneblad, kassör
+
+Gittan Jonsson, sekreterare
+
+Kerstin Palm, vice sekreterare
+
+Pär Henrik Andersson, ledamot
+
+Jan-Erik Pettersson, ledamot
+
+***
+
+Kerstin Palm, ungdoms- o träningskommittén
+
+Bengt-Erik Larsson, stugkommittén
+
+
+Vill Du komma i kontakt med styrelsen är Du välkommen att ringa Kerstin Ehn, 070-3391957.
