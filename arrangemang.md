@@ -1,3 +1,17 @@
+## Arrangemang 2025
+
+18 mars 	Nattserien
+
+25 mars	Veteran-ol
+
+15 april	Vårspringet
+
+9 sept	Höstspring
+
+21 okt 	Veteran-ol
+
+.
+
 ## Arrangemang 2024
 
 Nattserien 26 mars  
