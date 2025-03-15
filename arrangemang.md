@@ -1,12 +1,23 @@
 ## Arrangemang 2025
 
-18 mars 	Nattserien
+Nattserien 18 mars  
+Plats: Tallstugan  
+Samling 18.00. Gemensam gång till start 18:15. Start 18:30.  
+Mer information och resultat se [Eventor](https://eventor.orientering.se/Events/Show/53168)
 
-25 mars	Veteran-ol
+Veteran-OL 25 mars  
+Plats: Kungsvallen Kjula  
+Start från 09:00  
+Mer information och resultat se [Eventor](https://eventor.orientering.se/Events/Show/53155)
 
-15 april	Vårspringet
+Vårspringet#3 15 april  
+Plats: Meddelas senast veckan innan. Se Eventor.  
+Start från 17:00  
+Mer information och resultat se [Eventor](https://eventor.orientering.se/Events/Show/53169)
+
 
 9 sept	Höstspring
+
 
 21 okt 	Veteran-ol
 
